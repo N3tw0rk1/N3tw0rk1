@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @N3tw0rk1
+- 👋 Hi, I’m @Tropii
+-
 - 👀 I’m interested in ... Being a furry, Games, Streaming
 - 🌱 I’m currently learning ... Python, Git, unity
 - 💞️ I’m looking to collaborate on ... Creating a game 
